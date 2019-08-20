@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notification Check</string>
+    <string name="msg_permission_granted">Permission Granted!</string>
+    <string name="msg_permission_denied">Permission Denied!</string>
+    <string name="msg_permission_checking">Checking Permission!</string>
+    <string name="fire_notification">FIRE NOTIFICATION</string>
+    <string name="msg_dialog_title">Show Notification</string>
+    <string name="msg_dialog_body">Please allow to show notifications</string>
+    <string name="notification_title">My notification</string>
+    <string name="notification_text">Hurray notification is triggered!</string>
+    <string name="msg_dialog_btn_allow">ALLOW</string>
+</resources>
